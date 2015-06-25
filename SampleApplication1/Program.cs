@@ -10,7 +10,7 @@ namespace SampleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Questa è la versione 3 dell'applicazione");
+            Console.WriteLine("Questa è la versione 4 dell'applicazione");
         }
     }
 }
